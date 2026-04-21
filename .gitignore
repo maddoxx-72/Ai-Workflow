@@ -3,4 +3,8 @@ dist/
 .env
 .DS_Store
 coverage/
+Frontend/.vite/
+synapse-os-backend/data/*.sqlite-shm
+synapse-os-backend/data/*.sqlite-wal
+synapse-os-backend/data/*.sqlite-journal
 
